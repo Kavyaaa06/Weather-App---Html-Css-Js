@@ -1,0 +1,59 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/25/6e/67/caption.jpg?w=1000&h=800&s=1') no-repeat center center fixed;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.weather-container {
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 40px;
+  text-align: center;
+  width: 300px;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+input {
+  padding: 12px;
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border: none;
+  font-size: 1rem;
+}
+
+/* Button */
+button {
+  padding: 10px 20px;
+  background-color: #ff7f50;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #ff6347;
+}
+
+.weather-result {
+  margin-top: 20px;
+  font-size: 1.1rem;
+}
