@@ -16,6 +16,7 @@ JavaScript (ES6) — API calls, DOM manipulation, and error handling
 OpenWeatherMap API — Real-time weather data provider
 
 
-<img width="734" alt="image" src="https://github.com/user-attachments/assets/ff4f1295-517a-4a8e-9bdd-d9f9131ff318" />
+As you see in below image it displays Vijayawada's weather with overcast clouds, 26.51°C temperature, and 81% humidity. Users enter a city, and the app fetches data from the OpenWeatherMap API. Built with HTML, CSS, and JavaScript, it features a clean glassmorphism design and responsive layout.
+
 <img width="655" alt="image" src="https://github.com/user-attachments/assets/6041a169-c5c2-400b-9090-f812e4ebfb21" />
 
