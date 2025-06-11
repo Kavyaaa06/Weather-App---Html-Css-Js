@@ -14,3 +14,6 @@ HTML5 — Structure and layout of the app
 CSS3 — Styling with glassmorphism effect and responsive design
 JavaScript (ES6) — API calls, DOM manipulation, and error handling
 OpenWeatherMap API — Real-time weather data provider
+
+Result 
+<img width="734" alt="image" src="https://github.com/user-attachments/assets/ff4f1295-517a-4a8e-9bdd-d9f9131ff318" />
